@@ -1,0 +1,17 @@
+{
+  "name": "cenapdb",
+  "version": "0.0.1",
+  "description": "A basic json db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cenap",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "path": "^0.12.7"
+  }
+}
