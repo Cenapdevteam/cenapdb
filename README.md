@@ -7,4 +7,6 @@ const {
 
 const db = new JsonDatabase({
   databasePath:"./databases/myJsonDatabase.json"
-});```
+});
+```
+Kullanımı bu kadar basit **
